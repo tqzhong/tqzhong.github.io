@@ -16,8 +16,7 @@ I'm a second year postgraduate student from [School of EEIS](https://eeis.ustc.e
 
 ## Publications
 - **Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation**
-
--- **Tianqi Zhong**$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao
+-   **Tianqi Zhong**$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao
 [[Arxiv]](https://arxiv.org/pdf/2404.04232.pdf) [[Github]](https://github.com/tqzhong/CG4MCTG)
 
 - **Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation**
