@@ -11,8 +11,8 @@ redirect_from:
 I'm a second year postgraduate student from [School of EEIS](https://eeis.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/) advised by [Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm) of [Laboratory for Future Networks(LFN)](https://lfn.ustc.edu.cn/main.htm), University of Science and Technology of China. I am interested in natural language processing and currently working on controllable text generation.
 
 ## Education
-- **Master of Electronic Information Engineering, USTC**    2022.09-present
-- **Bachelor of Electronic Information Engineering, USTC**    2018.09-2022.06
+- **Master of Electronic Information Engineering, USTC, 2022.09-present**   
+- **Bachelor of Electronic Information Engineering, USTC, 2018.09-2022.06**
 
 ## Publication
 **Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation** `Preprint`
