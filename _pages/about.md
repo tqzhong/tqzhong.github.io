@@ -19,6 +19,6 @@ I'm a second year postgraduate student from [School of EEIS](https://eeis.ustc.e
 **Tianqi Zhong**$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao
 [[Arxiv]](https://arxiv.org/pdf/2404.04232.pdf) [[Github]](https://github.com/tqzhong/CG4MCTG)
 
-### Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation <span style="background-color: #f2f2f2; padding: 2px 4px; border-radius: 4px;">EMNLP2023</span>
+**Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation** <span style="background-color: #f2f2f2; padding: 2px 4px; border-radius: 4px;">EMNLP2023</span>
 **Tianqi Zhong**, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao
 [[Arxiv]](https://arxiv.org/pdf/2310.14892.pdf) [[Github]](https://github.com/tqzhong/Air-Decoding)
