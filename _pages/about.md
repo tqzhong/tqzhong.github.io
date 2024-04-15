@@ -14,3 +14,6 @@ I'm a second year postgraduate student from [School of EEIS](https://eeis.ustc.e
 - _2022.09 - Now_  Master, Electronic Information Engineering, USTC, Hefei, China
 - _2018.09 - 2022.06_  Bachelor, Electronic Information Engineering, USTC, Hefei, China
 
+## Publication
+### Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation `EMNLP2023`
+
