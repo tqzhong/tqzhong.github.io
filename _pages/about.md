@@ -15,7 +15,7 @@ I'm a second year postgraduate student from [School of EEIS](https://eeis.ustc.e
 
 **Bachelor of Electronic Information Engineering, USTC, 2018.09-2022.06**
 
-## Publication
+## Publications
 **Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation** `Preprint`
 <br>
 **Tianqi Zhong<sup>\*</sup>**, Zhaoyi Li<sup>\*</sup>, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao
