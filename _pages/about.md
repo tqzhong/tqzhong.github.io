@@ -28,3 +28,8 @@ I'm a second year postgraduate student from [School of EEIS](https://eeis.ustc.e
 <br>
 [[paper]](https://arxiv.org/pdf/2310.14892.pdf) [[codes]](https://github.com/tqzhong/Air-Decoding)
 
+<div style="display: flex; justify-content: space-between;">
+  <div>左对齐的文字</div>
+  <div style="text-align: right;">右对齐的文字</div>
+</div>
+
