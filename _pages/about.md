@@ -13,3 +13,12 @@ I'm a second year postgraduate student from [School of EEIS](https://eeis.ustc.e
 ## Education
 - _2022.09 - Now_  Master, Electronic Information Engineering, USTC, Hefei, China
 - _2018.09 - 2022.06_  Bachelor, Electronic Information Engineering, USTC, Hefei, China
+
+## Publications
+### Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation
+**Tianqi Zhong**$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao
+[[Arxiv]](https://arxiv.org/pdf/2404.04232.pdf) [[Github]](https://github.com/tqzhong/CG4MCTG)
+
+### Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation
+**Tianqi Zhong**, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao
+[[Arxiv]](https://arxiv.org/pdf/2310.14892.pdf) [[Github]](https://github.com/tqzhong/Air-Decoding)
