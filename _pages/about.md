@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year postgraduate student from [School of EEIS](https://eeis.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes controllable text generation and large language models in natural language processing. 
+I'm a second year postgraduate student from [School of EEIS](https://eeis.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/) advised by [Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm) of [Laboratory for Future Networks(LFN)](https://lfn.ustc.edu.cn/main.htm), University of Science and Technology of China. I am interested in natural language processing and currently working on controllable text generation.
 
-I am advised by [Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm) of
-[Laboratory for Future Networks(LFN)](https://lfn.ustc.edu.cn/main.htm), University of Science and Technology of China.
+## Education
+- _2022.09 - Now._ Master, Electronic Information Engineering, USTC, Hefei, China
+- _2018.09 - 2022.06._ Bachelor, Electronic Information Engineering, USTC, Hefei, China
