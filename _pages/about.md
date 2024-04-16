@@ -17,7 +17,7 @@ I'm a second-year graduate student from [School of EEIS](https://eeis.ustc.edu.c
 
 ## Publications
 
-<sup>\*</sup> denotes the co-first authors
+\*denotes the co-first authors
 
 - **Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation** `Preprint`<br>
 _<ins>Tianqi Zhong</ins>_<sup>\*</sup>, Zhaoyi Li<sup>\*</sup>, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao<br>
