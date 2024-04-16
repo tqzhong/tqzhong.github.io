@@ -22,7 +22,7 @@ _<u>Tianqi Zhong<sup>\*</sup></u>_, Zhaoyi Li<sup>\*</sup>, Quan Wang, Linqi Son
 
 
 - **Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation** `EMNLP2023`<br>
-<u>_Tianqi Zhong_</u>, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao<br>
+<u>Tianqi Zhong</u>, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao<br>
 [[paper]](https://arxiv.org/pdf/2310.14892.pdf) [[codes]](https://github.com/tqzhong/Air-Decoding)
 
 
