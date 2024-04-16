@@ -13,7 +13,7 @@ I'm a second-year graduate student from [School of EEIS](https://eeis.ustc.edu.c
 ## Education
 - _2022.09~present_ **Master of Electronic Information Engineering, USTC**
 
-- _2018.09-2022.06_ **Bachelor of Electronic Information Engineering, USTC**
+- _2018.09~2022.06_ **Bachelor of Electronic Information Engineering, USTC**
 
 ## Publications
 
