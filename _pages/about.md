@@ -11,9 +11,9 @@ redirect_from:
 I'm a second-year graduate student from [School of EEIS](https://eeis.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/). I am fortunate to be advised by [Prof. Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm). I am interested in natural language processing and currently working on controllable text generation and large language models.
 
 ## Education
-- _2022.09~present_ **Master of Electronic Information Engineering, USTC**
+- _2022.09~present_$\quad$**Master of Electronic Information Engineering, USTC**
 
-- _2018.09~2022.06_ **Bachelor of Electronic Information Engineering, USTC**
+- _2018.09~2022.06_$\quad$**Bachelor of Electronic Information Engineering, USTC**
 
 ## Publications
 
