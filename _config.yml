@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name:
     english: "Tianqi Zhong"
     chinese: "钟天琦"
   avatar           : "profile.jpg"
