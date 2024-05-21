@@ -27,7 +27,7 @@ _<ins>Tianqi Zhong</ins>_, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao
 
 
 ## Experience
-- _2022.09~present_$\quad$ M.Eng. in Electronic Information Engineering<br>University of Science and Technology of China
+- _2022.09~Now_$\quad$ M.Eng. in Electronic Information Engineering<br><font color="gray" size="2">University of Science and Technology of China</font>
 
 - _2018.09~2022.06_$\quad$ B.Eng. in Electronic Information Engineering<br>University of Science and Technology of China
 
