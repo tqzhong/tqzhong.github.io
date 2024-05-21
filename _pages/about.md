@@ -18,7 +18,7 @@ Welcome to my homepage! I'm Tianqi Zhong, a 2nd-year graduate student from [Scho
 _<ins>Tianqi Zhong</ins>_<sup>\*</sup>, Zhaoyi Li<sup>\*</sup>, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao<br>
 [[paper]](https://arxiv.org/pdf/2404.04232.pdf) [[codes]](https://github.com/tqzhong/CG4MCTG)
 <img src="/images/paper_image/compmctg.png" alt="compmctg" style="zoom:50%;" /><br>
-We propose a benchmark to evaluate the compositional generalization of multi-aspect controllable text generation (MCTG) and a training framework incorporating meta-learning to mitigate the compositional generalization risk in MCTG.
+We first propose a holistic benchmark to evaluate the compositional generalization of multi-aspect controllable text generation (MCTG) and a training framework incorporating meta-learning to mitigate the compositional generalization risk in MCTG.
 
 
 - **Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation** `EMNLP2023`<br>
