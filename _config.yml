@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name: |
-    Tianqi Zhong
+    Tianqi Zhong \n
     钟天琦
   avatar           : "DSC01784.png"
   bio              : "Master Student@USTC. Working on NLP"
