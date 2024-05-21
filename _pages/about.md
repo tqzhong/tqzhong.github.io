@@ -22,10 +22,10 @@ I'm a second-year graduate student from [School of EEIS](https://eeis.ustc.edu.c
 - **Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation** `ACL2024`<br>
 _<ins>Tianqi Zhong</ins>_<sup>\*</sup>, Zhaoyi Li<sup>\*</sup>, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao<br>
 [[paper]](https://arxiv.org/pdf/2404.04232.pdf) [[codes]](https://github.com/tqzhong/CG4MCTG)
-![air-decoding](paper_image/air-decoding.png)
+![air-decoding](/images/paper_image/air-decoding.png)
 
 
 - **Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation** `EMNLP2023`<br>
 _<ins>Tianqi Zhong</ins>_, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao<br>
 [[paper]](https://arxiv.org/pdf/2310.14892.pdf) [[codes]](https://github.com/tqzhong/Air-Decoding)
-![compmctg](paper_image/compmctg.png)
+![compmctg](/images/paper_image/compmctg.png)
