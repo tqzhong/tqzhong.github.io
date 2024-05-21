@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I'm Tianqi Zhong, a 2nd-year graduate student from [School of EEIS](https://eeis.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/). I am fortunate to be advised by [Prof. Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm). My research interests lie in natural language processing and attribute controllable text generation. Currently, I am particularly interested in the quantization of large language models. 
+Welcome to my homepage! I'm Tianqi Zhong, a 2nd-year graduate student from [School of EEIS](https://eeis.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/). I received my B.Eng. degree in Electronic Information Engineering from the University of Science and Technology of China. I am fortunate to be advised by [Prof. Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm). My research interests lie in natural language processing and attribute controllable text generation. Currently, I am particularly interested in the quantization of large language models. 
 
 ## Publications
 
