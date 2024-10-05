@@ -18,3 +18,25 @@ body {
 .footer {
   display: none; /* 隐藏其他可能的页脚部分 */
 }
+
+/* 尝试移除页面顶部的边框或分割线 */
+header, .page__header {
+  border-bottom: none; /* 如果是页眉的边框，移除之 */
+  box-shadow: none; /* 移除阴影 */
+  margin-bottom: 0; /* 尝试移除页眉与内容之间的间隔 */
+}
+
+/* 如果是水平分割线 */
+hr {
+  display: none; /* 隐藏所有水平分割线 */
+}
+
+/* 如果页面顶部元素有其他可能的边框 */
+.page__content, .wrapper {
+  border-top: none; /* 去除顶部边框 */
+}
+
+/* 检查是否有任何默认的上边框或容器样式 */
+.container {
+  border-top: none;
+}
