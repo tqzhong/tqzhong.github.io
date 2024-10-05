@@ -10,10 +10,24 @@ redirect_from:
 
 I'm Tianqi Zhong (my chinese name is 钟天琦), a 3rd-year graduate student from [EEIS](https://eeis.ustc.edu.cn/main.htm), [USTC](https://www.ustc.edu.cn/). I received my B.Eng. degree in Electronic Information Engineering from the University of Science and Technology of China. I am fortunate to be co-advised by [Prof. Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm) and [Prof. Quan Wang](https://teacher.bupt.edu.cn/wangquan/en/index/245476/list/index.htm). Currently my research interests mainly lie in attribute controllable text generation and alignment. 
 <br><br>
-<span style="font-family: cursive; font-style: italic;">May joy find you today, whoever you are, in every way.</span>
+<!--<span style="font-family: cursive; font-style: italic;">May joy find you today, whoever you are, in every way.</span>-->
+
+<style>
+  summary {
+    list-style: none; /* 隐藏默认的三角形标志 */
+    font-family: 'Georgia', serif; /* 确保字体与上面一致 */
+    font-style: italic;
+    font-size: 18px; /* 根据需要调整字体大小 */
+    cursor: pointer; /* 鼠标悬停时显示为手指 */
+  }
+
+  summary::-webkit-details-marker {
+    display: none; /* 隐藏默认的折叠标志 (▶) */
+  }
+</style>
 
 <details>
-  <summary>LaLa</summary>
+  <summary>May joy find you today, whoever you are, in every way.</summary>
   
   <h2>Experience</h2>
   Internship in Application of LLMs&nbsp;<em>2024.06~08</em><br>
