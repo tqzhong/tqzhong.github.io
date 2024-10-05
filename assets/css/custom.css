@@ -1,0 +1,7 @@
+.page__footer-follow,
+.page__footer-copyright {
+  background: transparent; /* 确保页脚背景透明 */
+  color: white; /* 使页脚的文字与背景对比度高，保证可读性 */
+  z-index: 1; /* 确保页脚内容在 iframe 之上 */
+  position: relative;
+}
