@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 <style>
   html, body {
     height: 100%;
@@ -19,15 +29,6 @@
 <iframe id="background-iframe" src="https://rezmason.github.io/matrix/?numColumns=100&fallSpeed=-0.25&slant=180&glyphRotation=90&bloomStrength=0.1&cycleSpeed=0.01&skipIntro=true&bloomSize=0&version=resurrections"></iframe>
 
 <div id="content">
-  ---
-  permalink: /
-  title: "About me"
-  excerpt: "About me"
-  author_profile: true
-  redirect_from:
-    - /about/
-    - /about.html
-  ---
 
   <!-- Markdown 内容可以放在这里 -->
 
