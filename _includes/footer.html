@@ -1,6 +1,6 @@
 {% include base_path %}
 
-<div class="page__footer-follow" style="background: transparent;">
+<div class="page__footer-follow" style="background: transparent; position: relative; z-index: 1;">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
@@ -21,6 +21,6 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright" style="background: transparent; color: white;">
+<div class="page__footer-copyright" style="background: transparent; color: white; position: relative; z-index: 1;">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow" style="color: white;">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io" style="color: white;">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" style="color: white;">Minimal Mistakes</a>.
 </div>
