@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "cn-China"
-title                    : "Tianqi Zhong"
+# title                    : "Tianqi Zhong"
 title_separator          : "-"
 name                     : &name "Tianqi Zhong"
 description              : &description "A second year postgraduate student from USTC"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name: # "Tianqi Zhong"
+  name:  "Tianqi Zhong"
   avatar           : "profile.jpg"
   bio              : "Master's Student at USTC. Working on NLP"
   location         : "China Hefei"
