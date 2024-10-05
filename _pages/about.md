@@ -30,15 +30,15 @@ I'm Tianqi Zhong (my chinese name is 钟天琦), a 3rd-year graduate student fro
   <summary>May joy find you today, whoever you are, in every way.</summary>
   
   <h2>Experience</h2>
-  Internship in Application of LLMs&nbsp;<em>2024.06~08</em><br>
+  Internship in Application of LLMs&nbsp;&nbsp;&nbsp;&nbsp;<em>2024.06~08</em><br>
   <font color="gray" size="2.75">Tencent, IEG</font>
   <br><br>
 
-  M.Eng. in Electronic Information Engineering&nbsp;<em>2022.09~Now</em><br>
+  M.Eng. in Electronic Information Engineering&nbsp;&nbsp;&nbsp;&nbsp;<em>2022.09~Now</em><br>
   <font color="gray" size="2.75">University of Science and Technology of China</font>
   <br><br>
 
-  B.Eng. in Electronic Information Engineering&nbsp;<em>2018.09~2022.06</em><br>
+  B.Eng. in Electronic Information Engineering&nbsp;&nbsp;&nbsp;&nbsp;<em>2018.09~2022.06</em><br>
   <font color="gray" size="2.75">University of Science and Technology of China</font>
   <br><br>
 
