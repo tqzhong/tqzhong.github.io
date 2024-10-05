@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Tianqi Zhong"
+  name: # "Tianqi Zhong"
   avatar           : "profile.jpg"
   bio              : "Master's Student at USTC. Working on NLP"
   location         : "China Hefei"
