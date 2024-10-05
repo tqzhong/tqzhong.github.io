@@ -29,7 +29,7 @@ We propose a novel decoding-time controllable text generation (CTG) framework vi
 
 
 ## Experience
-- Research Internship in Application of LLMs$\quad$_2024.06~Now_
+- Internship in Application of LLMs$\quad$_2024.06~08_
   <br><font color="gray" size="2.75">Tencent, IEG</font>
 
 - M.Eng. in Electronic Information Engineering$\quad$_2022.09~Now_
