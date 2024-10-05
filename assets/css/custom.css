@@ -40,3 +40,12 @@ hr {
 .container {
   border-top: none;
 }
+
+.masthead::after,
+.masthead__inner-wrap::after,
+.masthead__menu::after,
+#site-nav::after {
+  content: none !important;
+  display: none !important;
+  border: none !important;
+}
