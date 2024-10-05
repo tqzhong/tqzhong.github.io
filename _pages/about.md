@@ -14,7 +14,7 @@ redirect_from:
     <!-- Markdown 内容可以放在这里 -->
 
     
-    I'm Tianqi Zhong (my chinese name is 钟天琦), a 3rd-year graduate student from [EEIS](https://eeis.ustc.edu.cn/main.htm), [USTC](https://www.ustc.edu.cn/). I received my B.Eng. degree in Electronic Information Engineering from the University of Science and Technology of China. I am fortunate to be co-advised by [Prof. Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm) and [Prof. Quan Wang](https://teacher.bupt.edu.cn/wangquan/en/index/245476/list/index.htm). Currently my research interests mainly lie in attribute controllable text generation and alignment. 
+    I'm Tianqi Zhong (my chinese name is 钟天琦), a 3rd-year graduate student from <a href="https://eeis.ustc.edu.cn/main.htm" style="text-decoration: none; color: #ffffff;">EEIS</a>, <a href="https://www.ustc.edu.cn/" style="text-decoration: none; color: #ffffff;">USTC</a>. I received my B.Eng. degree in Electronic Information Engineering from the University of Science and Technology of China. I am fortunate to be co-advised by <a href="https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm" style="text-decoration: none; color: #ffffff;">Prof. Zhendong Mao</a> and <a href="https://teacher.bupt.edu.cn/wangquan/en/index/245476/list/index.htm" style="text-decoration: none; color: #ffffff;">Prof. Quan Wang</a>. Currently my research interests mainly lie in attribute controllable text generation and alignment. 
     <br><br>
     <!--<span style="font-family: cursive; font-style: italic;">May joy find you today, whoever you are, in every way.</span>-->
     
