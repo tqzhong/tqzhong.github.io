@@ -9,3 +9,12 @@ body {
   padding: 0 !important;
   overflow: hidden !important;
 }
+.page__footer,
+.page__footer-follow,
+.page__footer-copyright {
+  display: none; /* 隐藏页脚和页脚的所有内容 */
+}
+
+.footer {
+  display: none; /* 隐藏其他可能的页脚部分 */
+}
