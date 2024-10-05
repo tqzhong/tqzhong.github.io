@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!--
+
 <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; overflow: hidden;">
   <iframe src="https://rezmason.github.io/matrix/?numColumns=100&fallSpeed=-0.25&slant=180&glyphRotation=90&bloomStrength=0.1&cycleSpeed=0.01&skipIntro=true&bloomSize=0&version=resurrections" style="width: 100%; height: 100%; border: none;"></iframe>
 </div>
--->
+
 
 <div style="position: relative; z-index: 1; padding: 20px; color: white;">
   <!-- Markdown 内容可以放在这里 -->
