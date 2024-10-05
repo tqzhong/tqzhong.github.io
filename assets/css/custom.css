@@ -1,7 +1,36 @@
-.page__footer-follow,
-.page__footer-copyright {
-  background: transparent; /* 确保页脚背景透明 */
-  color: white; /* 使页脚的文字与背景对比度高，保证可读性 */
-  z-index: 1; /* 确保页脚内容在 iframe 之上 */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#background-iframe {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  border: none;
+  z-index: -1;
+}
+
+#content {
   position: relative;
+  z-index: 1;
+  padding: 20px;
+  color: white;
+}
+
+footer.page__footer {
+  position: relative;
+  z-index: 1;
+  color: white;
+  background: transparent;
+  padding: 20px;
+  text-align: center;
+}
+
+.page__footer-follow, .page__footer-copyright {
+  background: transparent;
 }
