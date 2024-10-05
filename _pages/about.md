@@ -13,6 +13,7 @@ I'm Tianqi Zhong (Chinese Name: 钟天琦), a 3rd-year graduate student from [EE
 
 <details>
   <summary>LaLa</summary>
+  
 ## Experience
 Internship in Application of LLMs$\quad$_2024.06~08_
   <br><font color="gray" size="2.75">Tencent, IEG</font>
