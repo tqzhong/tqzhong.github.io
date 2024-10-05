@@ -334,3 +334,15 @@
   display: none !important;
   border: none !important;
 }
+
+.masthead, .masthead__inner-wrap, .masthead__menu, #site-nav {
+  border-bottom: none !important;
+  box-shadow: none !important;
+  margin-bottom: 0 !important;
+}
+
+hr {
+  display: none !important; /* 隐藏所有 <hr> 元素 */
+  border: none !important;
+}
+
