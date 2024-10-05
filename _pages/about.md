@@ -14,7 +14,7 @@ Welcome to my homepage! I'm Tianqi Zhong, a 2nd-year graduate student from [Scho
 
 \* denotes the co-first authors
 
-**Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation** `ACL2024` <a href="https://aclanthology.org/2024.acl-long.351.pdf" target="_blank" style="text-decoration: none;"><code>paper</code></a> <a href="https://github.com/tqzhong/CG4MCTG" target="_blank" style="text-decoration: none;"><code>code</code></a> <a href="/files/poster_compmctg .pdf" target="_blank" style="text-decoration: none;"><code>poster</code></a> <br>
+**Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation** <a href="https://2024.aclweb.org/" target="_blank" style="text-decoration: none;"><code>ACL2024</code></a> <a href="https://aclanthology.org/2024.acl-long.351.pdf" target="_blank" style="text-decoration: none;"><code>paper</code></a> <a href="https://github.com/tqzhong/CG4MCTG" target="_blank" style="text-decoration: none;"><code>code</code></a> <a href="/files/poster_compmctg .pdf" target="_blank" style="text-decoration: none;"><code>poster</code></a> <br>
 _<ins>Tianqi Zhong</ins>_<sup>\*</sup>, Zhaoyi Li<sup>\*</sup>, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao
 <!--[[paper]](https://aclanthology.org/2024.acl-long.351.pdf) [[codes]](https://github.com/tqzhong/CG4MCTG) [[poster]](/files/poster_compmctg .pdf)-->
 <!--We first propose a holistic benchmark to evaluate the compositional generalization of multi-aspect controllable text generation (MCTG) and a training framework incorporating meta-learning to mitigate the compositional generalization risk in MCTG.-->
