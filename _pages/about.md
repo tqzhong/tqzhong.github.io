@@ -49,7 +49,7 @@ I'm Tianqi Zhong (my chinese name is 钟天琦), a 3rd-year graduate student fro
   <a href="https://2024.aclweb.org/" target="_blank" style="text-decoration: none;"><code>ACL2024</code></a> 
   <a href="https://aclanthology.org/2024.acl-long.351.pdf" target="_blank" style="text-decoration: none;"><code>paper</code></a> 
   <a href="https://github.com/tqzhong/CG4MCTG" target="_blank" style="text-decoration: none;"><code>code</code></a> 
-  <a href="/files/poster_compmctg.pdf" target="_blank" style="text-decoration: none;"><code>poster</code></a> 
+  <a href="/files/poster_compmctg .pdf" target="_blank" style="text-decoration: none;"><code>poster</code></a> 
   <br>
   <em><ins>Tianqi Zhong</ins></em><sup>*</sup>, Zhaoyi Li<sup>*</sup>, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao
   <br><br>
