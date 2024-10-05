@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Tianqi Zhong, 钟天琦"
-excerpt: "Tianqi Zhong, 钟天琦"
+title: "About me"
+<!--excerpt: "Tianqi Zhong, 钟天琦"-->
 author_profile: true
 redirect_from: 
   - /about/
