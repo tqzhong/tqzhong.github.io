@@ -15,7 +15,7 @@ I'm Tianqi Zhong (my chinese name is 钟天琦), a 3rd-year graduate student fro
 <style>
   summary {
     list-style: none; /* 隐藏默认的三角形标志 */
-    font-family: 'Georgia', serif; /* 确保字体与上面一致 */
+    font-family: cursive; /* 确保字体与上面一致 */
     font-style: italic;
     font-size: 18px; /* 根据需要调整字体大小 */
     cursor: pointer; /* 鼠标悬停时显示为手指 */
