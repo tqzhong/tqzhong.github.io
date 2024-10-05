@@ -1,18 +1,18 @@
-
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 <div style="position: relative; height: 100vh; width: 100%; overflow: hidden;">
   <iframe src="https://rezmason.github.io/matrix/?numColumns=100&fallSpeed=-0.25&slant=180&glyphRotation=90&bloomStrength=0.1&cycleSpeed=0.01&skipIntro=true&bloomSize=0&version=resurrections" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; z-index: -1;"></iframe>
   
   <div style="position: relative; z-index: 1; padding: 20px; color: white;">
     <!-- Markdown 内容可以放在这里 -->
-    ---
-    permalink: /
-    title: "About me"
-    excerpt: "About me"
-    author_profile: true
-    redirect_from: 
-      - /about/
-      - /about.html
-    ---
+
     
     I'm Tianqi Zhong (my chinese name is 钟天琦), a 3rd-year graduate student from [EEIS](https://eeis.ustc.edu.cn/main.htm), [USTC](https://www.ustc.edu.cn/). I received my B.Eng. degree in Electronic Information Engineering from the University of Science and Technology of China. I am fortunate to be co-advised by [Prof. Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm) and [Prof. Quan Wang](https://teacher.bupt.edu.cn/wangquan/en/index/245476/list/index.htm). Currently my research interests mainly lie in attribute controllable text generation and alignment. 
     <br><br>
