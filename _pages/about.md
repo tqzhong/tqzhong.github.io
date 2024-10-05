@@ -23,9 +23,30 @@ redirect_from:
     width: 100vw;
     height: 100vh;
     border: none;
-    z-index: -1; /* 确保背景在所有内容的下方 */
+    z-index: -1;
+  }
+
+  #content {
+    position: relative;
+    z-index: 1;
+    padding: 20px;
+    color: white;
+  }
+
+  footer.page__footer {
+    position: relative;
+    z-index: 1;
+    color: white;
+    background: transparent;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .page__footer-follow, .page__footer-copyright {
+    background: transparent;
   }
 </style>
+
 <iframe id="background-iframe" src="https://rezmason.github.io/matrix/?numColumns=100&fallSpeed=-0.25&slant=180&glyphRotation=90&bloomStrength=0.1&cycleSpeed=0.01&skipIntro=true&bloomSize=0&version=resurrections"></iframe>
 
 <div id="content">
@@ -88,13 +109,14 @@ redirect_from:
     <em><ins>Tianqi Zhong</ins></em>, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao
   </details>
 </div>
+
 <footer class="page__footer">
-  <div class="page__footer-follow" style="background: transparent;">
+  <div class="page__footer-follow">
     <ul class="social-icons">
       <!-- 页脚的社交链接 -->
     </ul>
   </div>
-  <div class="page__footer-copyright" style="background: transparent; color: white;">
+  <div class="page__footer-copyright">
     &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Powered by Jekyll & AcademicPages.
   </div>
 </footer>
