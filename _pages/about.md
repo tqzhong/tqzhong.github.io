@@ -11,6 +11,8 @@ redirect_from:
 I'm Tianqi Zhong (Chinese Name: 钟天琦), a 3rd-year graduate student from [EEIS](https://eeis.ustc.edu.cn/main.htm), [USTC](https://www.ustc.edu.cn/). I received my B.Eng. degree in Electronic Information Engineering from the University of Science and Technology of China. I am fortunate to be co-advised by [Prof. Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm) and [Prof. Quan Wang](https://teacher.bupt.edu.cn/wangquan/en/index/245476/list/index.htm). Currently my research interests mainly lie in attribute controllable text generation and alignment. 
 <br><br>$May\ joy\ find\ you\ today,\ whoever\ you\ are,\ in\ every\ way.$
 
+<details>
+  <summary>LaLa</summary>
 ## Experience
 Internship in Application of LLMs$\quad$_2024.06~08_
   <br><font color="gray" size="2.75">Tencent, IEG</font>
@@ -36,4 +38,5 @@ _<ins>Tianqi Zhong</ins>_, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao
 <!--[[paper]](https://aclanthology.org/2023.emnlp-main.512.pdf) [[codes]](https://github.com/tqzhong/Air-Decoding) [[poster]](/files/poster_air.pdf)-->
 <!--We propose a novel decoding-time controllable text generation (CTG) framework via attribute distribution reconstruction to address the problem of attribute collapse in traditional decoding-time CTG methods.-->
 <!--<img src="/images/paper_image/air-decoding.png" alt="air-decoding" style="zoom:9%;" />-->
+</details>
 
