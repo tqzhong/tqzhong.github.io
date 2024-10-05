@@ -14,17 +14,16 @@ Welcome to my homepage! I'm Tianqi Zhong, a 2nd-year graduate student from [Scho
 
 \* denotes the co-first authors
 
-- **Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation** `ACL2024`<br>
+**Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation** `ACL2024`<br>
 _<ins>Tianqi Zhong</ins>_<sup>\*</sup>, Zhaoyi Li<sup>\*</sup>, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao<br>
 [[paper]](https://aclanthology.org/2024.acl-long.351.pdf) [[codes]](https://github.com/tqzhong/CG4MCTG) [[poster]](/files/poster_compmctg .pdf)
-<img src="/images/paper_image/compmctg.png" alt="compmctg" style="zoom:50%;" /><br>
+<img src="/images/paper_image/compmctg.png" alt="compmctg" style="zoom:10%;" /><br>
 We first propose a holistic benchmark to evaluate the compositional generalization of multi-aspect controllable text generation (MCTG) and a training framework incorporating meta-learning to mitigate the compositional generalization risk in MCTG.
 
-
-- **Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation** `EMNLP2023`<br>
+**Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation** `EMNLP2023`<br>
 _<ins>Tianqi Zhong</ins>_, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao<br>
 [[paper]](https://aclanthology.org/2023.emnlp-main.512.pdf) [[codes]](https://github.com/tqzhong/Air-Decoding) [[poster]](/files/poster_air.pdf)
-<img src="/images/paper_image/air-decoding.png" alt="air-decoding" style="zoom:45%;" /><br>
+<img src="/images/paper_image/air-decoding.png" alt="air-decoding" style="zoom:9%;" /><br>
 We propose a novel decoding-time controllable text generation (CTG) framework via attribute distribution reconstruction to address the problem of attribute collapse in traditional decoding-time CTG methods.
 
 
