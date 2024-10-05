@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I'm Tianqi Zhong (my chinese name is 钟天琦), a 3rd-year graduate student from [EEIS](https://eeis.ustc.edu.cn/main.htm), [USTC](https://www.ustc.edu.cn/). I received my B.Eng. degree in Electronic Information Engineering from the University of Science and Technology of China. I am fortunate to be co-advised by [Prof. Zhendong Mao](https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm) and [Prof. Quan Wang](https://teacher.bupt.edu.cn/wangquan/en/index/245476/list/index.htm). Currently my research interests mainly lie in attribute controllable text generation and alignment. 
-<br><br>$May\ joy\ find\ you\ today,\ whoever\ you\ are,\ in\ every\ way.$
+<br><br>
+<em>May joy find you today, whoever you are, in every way.</em>
 
 <details>
   <summary>LaLa</summary>
