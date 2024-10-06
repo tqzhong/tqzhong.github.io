@@ -2,7 +2,6 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-seo_title: "RS"
 author_profile: true
 redirect_from: 
   - /about/
