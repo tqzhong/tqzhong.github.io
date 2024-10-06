@@ -22,7 +22,11 @@
     {% endif %}
   {% endif %}
 
-  
+  {% if site.blog %}
+    <div class="sidebar-item">
+      <h3><a href="{{ site.blog }}" style="text-decoration: none; color: inherit;">Blog</a></h3>
+    </div>
+  {% endif %}
 
 
   </div>
