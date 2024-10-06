@@ -40,7 +40,7 @@ footer: false
     <summary>May joy find you today, whoever you are, in every way.</summary>
     
     <h2>Experience</h2>
-    Internship in Application of LLMs&nbsp;&nbsp;&nbsp;&nbsp;<em>2024.06~08</em><br>
+    Internship in Application of LLMs&nbsp;&nbsp;&nbsp;&nbsp;<em>2024.06~2024.08</em><br>
     <font color="gray" size="2.75">Tencent, IEG</font>
     <br><br>
   
