@@ -3,3 +3,6 @@ layout: default
 title: "Blog"
 permalink: /blog/
 ---
+
+{% include base_path %}
+{% include toc %}
