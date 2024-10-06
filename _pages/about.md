@@ -37,7 +37,7 @@ footer: false
   </style>
   
   <details>
-    <summary>May joy find you today, whoever you are, in every way.</summary>
+    <summary>There is a difference between knowing the path and walking the path.</summary>
     
     <h2>Experience</h2>
     Internship in Application of LLMs&nbsp;&nbsp;&nbsp;&nbsp;<em>2024.06~2024.08</em><br>
