@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "cn-China"
-title                    : "RS"
+# title                    : "RS"
 # title_separator          : "-"
 name                     : &name "Tianqi Zhong"
 description              : &description "A second year postgraduate student from USTC"
