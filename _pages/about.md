@@ -17,7 +17,7 @@ footer: false
 <div style="position: relative; z-index: 1; padding: 20px; color: white;">
   <!-- Markdown 内容可以放在这里 -->
   <h1 style="border-bottom: none; color: #cccccc;">About me</h1>
-  <br><br>
+  <br>
 
   Hi！This is Tianqi Zhong (Rs), a 3rd-year graduate student from USTC. I have several years of research experience in natural language processing and maintain a keen interest in large language models, continually advancing my understanding in this field. Personally, I am more optimistic about the downstream applications of llms and aim to engage in impactful projects that introduce meaningful changes. If you share similar interests and have innovative ideas, please feel free to contact me. Let's collaborate and make our hands dirty!
  <!-- Hi！I'm Tianqi Zhong (Rs), a 3rd-year graduate student from <a href="https://eeis.ustc.edu.cn/main.htm" style="text-decoration: none; color: #ffffff;">EEIS</a>, <a href="https://www.ustc.edu.cn/" style="text-decoration: none; color: #ffffff;">USTC</a>. I received my B.Eng. degree in Electronic Information Engineering from the University of Science and Technology of China. I am fortunate to be co-advised by <a href="https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm" style="text-decoration: none; color: #ffffff;">Prof. Zhendong Mao</a> and <a href="https://teacher.bupt.edu.cn/wangquan/en/index/245476/list/index.htm" style="text-decoration: none; color: #ffffff;">Prof. Quan Wang</a>. I am quite interested in natural language processing, llm post-training, efficient inference, and the metaverse. If the Matrix ever becomes a reality, I just hope they leave out Neo this time. -->
