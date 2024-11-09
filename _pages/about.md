@@ -38,7 +38,7 @@ footer: false
     }
   </style>
   
-  <details open>
+  <details>
     <summary>If the Matrix ever becomes a reality, I just hope they leave out Neo this time...</summary>
     
     <h2>Experience</h2>
