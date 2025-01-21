@@ -46,7 +46,7 @@ footer: false
     <font color="gray" size="2.75">Tencent, IEG</font>
     <br><br>
   
-    M.Eng. in Electronic Information Engineering&nbsp;&nbsp;&nbsp;&nbsp;<em>2022.09~Now</em><br>
+    M.Eng. in Information and Communication Engineering&nbsp;&nbsp;&nbsp;&nbsp;<em>2022.09~Now</em><br>
     <font color="gray" size="2.75">University of Science and Technology of China</font>
     <br><br>
   
