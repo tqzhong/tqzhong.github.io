@@ -42,8 +42,8 @@ footer: false
     <summary>If the Matrix ever becomes a reality, I just hope they leave out Neo this time...</summary>
     
     <h2>Experience</h2>
-    Internship in Application of LLMs&nbsp;&nbsp;&nbsp;&nbsp;<em>2025.04~Now</em><br>
-    <font color="gray" size="2.75">ByteDance, Data-Douyin</font>
+    Large Language Model Engineer&nbsp;&nbsp;&nbsp;&nbsp;<em>2025.04~Now</em><br>
+    <font color="gray" size="2.75">ByteDance, Data</font>
     <br><br>
     
     Internship in Application of LLMs&nbsp;&nbsp;&nbsp;&nbsp;<em>2024.06~2024.08</em><br>
