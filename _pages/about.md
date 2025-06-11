@@ -43,7 +43,7 @@ footer: false
     
     <h2>Experience</h2>
     Intelligent Customer Service Department&nbsp;&nbsp;&nbsp;&nbsp;<em>2025.04~Now</em><br>
-    <font color="gray" size="2.75">ByteDance, Data</font>
+    <font color="gray" size="2.75">ByteDance, Data-Douyin</font>
     <br><br>
     
     Internship in User Platform Department&nbsp;&nbsp;&nbsp;&nbsp;<em>2024.06~2024.08</em><br>
