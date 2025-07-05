@@ -35,7 +35,11 @@ footer: false
     <summary>If the Matrix ever becomes a reality, I just hope they leave out Neo this time...</summary>
     
     <h2>Experience</h2>
-    Intelligent Customer Service&nbsp;&nbsp;&nbsp;&nbsp;<em>2025.04~Now</em><br>
+    Intelligent Customer Service&nbsp;&nbsp;&nbsp;&nbsp;<em>2025.07~Now</em><br>
+    <font color="gray" size="2.75">ByteDance, Data-Douyin</font>
+    <br><br>
+
+    Internship in AI Clone&nbsp;&nbsp;&nbsp;&nbsp;<em>2025.04~2025.06</em><br>
     <font color="gray" size="2.75">ByteDance, Data-Douyin</font>
     <br><br>
     
@@ -43,7 +47,7 @@ footer: false
     <font color="gray" size="2.75">Tencent, IEG</font>
     <br><br>
   
-    M.Eng. in Information and Communication Engineering&nbsp;&nbsp;&nbsp;&nbsp;<em>2022.09~Now</em><br>
+    M.Eng. in Information and Communication Engineering&nbsp;&nbsp;&nbsp;&nbsp;<em>2022.09~2025.06</em><br>
     <font color="gray" size="2.75">University of Science and Technology of China</font>
     <br><br>
   
