@@ -35,11 +35,7 @@ footer: false
     <summary>If the Matrix ever becomes a reality, I just hope they leave out Neo this time...</summary>
     
     <h2>Experience</h2>
-    Intelligent Customer Service&nbsp;&nbsp;&nbsp;&nbsp;<em>2025.07~Now</em><br>
-    <font color="gray" size="2.75">ByteDance, Data-Douyin</font>
-    <br><br>
-
-    Internship in AI Clone&nbsp;&nbsp;&nbsp;&nbsp;<em>2025.04~2025.06</em><br>
+    AI Clone & Intelligent Customer Service&nbsp;&nbsp;&nbsp;&nbsp;<em>2025.04~Now</em><br>
     <font color="gray" size="2.75">ByteDance, Data-Douyin</font>
     <br><br>
     
