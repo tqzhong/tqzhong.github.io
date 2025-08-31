@@ -11,7 +11,7 @@ title                    : "Rs"
 title_separator          : "-"
 name                     : &name "Tianqi Zhong"
 description              : &description "A second year postgraduate student from USTC"
-# url                      : https://tqzhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tqzhong/tqzhong.github.io"
 teaser                   :  # filename of teaser fallback teaserage placed in /images/, .e.g. "500x300.png" im
