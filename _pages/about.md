@@ -15,14 +15,13 @@ footer: false
 </div>
 
 <style>
-  /* --- 新增部分：强制禁止滚动条 --- */
+  /* 强制禁止滚动条 */
   html, body {
-    overflow: hidden !important; /* 核心代码：禁止出现滚动条 */
-    height: 100%;                /* 确保高度占满，防止塌陷 */
+    overflow: hidden !important;
+    height: 100%;
     margin: 0;
     padding: 0;
   }
-  /* -------------------------------- */
 
   :root {
     --matrix-green: #00FF41;
@@ -30,30 +29,29 @@ footer: false
     --text-dim: #a0a0a0;
   }
 
-  /* 容器：全透明，去掉边框和阴影 */
+  /* 容器 */
   .main-content {
     position: relative;
     z-index: 1;
     max-width: 850px;
-    /* 稍微调整了 margin-bottom，防止底部边距顶出滚动条，但主要靠上面的 overflow: hidden */
-    margin: 60px auto 0 auto; 
+    margin: 60px auto 0 auto;
     padding: 20px;
     background: transparent; 
     color: var(--text-main);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-family: 'Courier New', Courier, monospace; 
   }
 
-  /* 台词样式：调小、单行、无符号 */
+  /* 顶部台词 */
   summary {
     list-style: none;
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
-    font-size: 14px; /* 字体调小 */
+    font-size: 14px;
     text-align: center;
     cursor: pointer;
     color: var(--matrix-green);
     transition: all 0.3s;
-    white-space: nowrap; /* 强制单行 */
+    white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     padding: 10px;
@@ -77,17 +75,15 @@ footer: false
     border-radius: 4px;
     margin: 0 5px;
     font-size: 13px;
-    transition: all 0.3s;
+    /* transition: all 0.3s;  <-- 如果不需要 hover 效果，其实过渡动画也可以去掉，留着也没影响 */
   }
-  .nav-links a:hover {
-    background: var(--matrix-green);
-    color: black;
-    box-shadow: 0 0 15px var(--matrix-green);
-  }
+  
+  /* --- 已删除 .nav-links a:hover 样式块，彻底去掉悬停高亮 --- */
 
-  /* 标题：增加一点阴影以防背景干扰 */
+  /* H2 标题 */
   h2 {
-    font-family: 'Courier New', monospace;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;  /* 不加粗 */
     color: var(--matrix-green);
     border-bottom: 1px solid rgba(0, 255, 65, 0.3);
     padding-bottom: 8px;
@@ -98,7 +94,7 @@ footer: false
     text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
   }
 
-  /* 经历项：增加阴影提升可读性 */
+  /* 经历项 */
   .exp-item {
     margin-bottom: 25px;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.9);
@@ -108,17 +104,25 @@ footer: false
     justify-content: space-between;
     align-items: baseline;
   }
+  
+  /* 经历标题 */
   .exp-title {
+    font-family: 'Courier New', Courier, monospace;
     font-size: 17px;
-    font-weight: 600;
+    font-weight: 600; 
     color: #fff;
   }
+
+  /* 时间 */
   .exp-date {
     font-family: 'Courier New', monospace;
     font-size: 13px;
     color: var(--matrix-green);
   }
+
+  /* 副标题 */
   .exp-sub {
+    font-family: 'Courier New', Courier, monospace;
     font-size: 13px;
     color: var(--text-dim);
     margin-top: 4px;
@@ -126,9 +130,7 @@ footer: false
 </style>
 
 <div class="main-content">
-  <!-- 默认关闭状态（无 open 属性） -->
   <details>
-    <!-- 去掉了 > 符号，点击此处即可展开 -->
     <summary>If the Matrix ever becomes a reality, I just hope they leave out Neo this time...</summary>
     
     <div class="nav-links">
