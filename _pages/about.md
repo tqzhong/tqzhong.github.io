@@ -9,33 +9,39 @@ redirect_from:
 footer: false
 ---
 
-<!-- Matrix 背景层 -->
+<!-- Matrix 背景层 (保持原样，不动 JS) -->
 <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; overflow: hidden; background: black;">
   <iframe src="https://rezmason.github.io/matrix/?numColumns=100&fallSpeed=0.25&slant=0&glyphRotation=90&bloomStrength=0.1&cycleSpeed=0.01&skipIntro=true&bloomSize=0&version=resurrections" style="width: 100%; height: 100%; border: none; opacity: 0.6;"></iframe>
 </div>
 
 <style>
-   /* 1. 基础设置：去掉默认边距 */
+  /* ====== 核心修改开始：解决手机端背景被遮挡 ====== */
+  /* 暴力强制所有可能遮挡背景的主题容器变成透明 */
+  html, body, #main, .initial-content, .page__content, .page, .page__footer, footer, .masthead {
+    background: transparent !important;
+    background-color: transparent !important;
+  }
+  /* ====== 核心修改结束 ====== */
+
+  /* 滚动条控制（保持原样） */
   html, body {
     height: 100%;
     margin: 0;
-    padding: 0 !important; /* 强制去掉主题可能的 padding */
+    padding: 0 !important;
   }
-
-  /* 2. 默认（手机端）：允许垂直滚动 */
+  /* 默认手机端允许滚动 */
   body {
     overflow-y: auto; 
-    overflow-x: hidden; /* 禁止横向滚动 */
+    overflow-x: hidden;
   }
-
-  /* 3. 电脑端（宽度大于 768px）：如果页面高度够用，强制隐藏滚动条 */
+  /* 电脑端隐藏滚动条 */
   @media (min-width: 768px) {
     html, body {
       overflow: hidden !important;
     }
   }
 
-
+  /* 字体和颜色定义 */
   :root {
     --matrix-green: #00FF41;
     --text-main: #e0e0e0;
@@ -54,7 +60,7 @@ footer: false
     font-family: 'Courier New', Courier, monospace; 
   }
 
-  /* 主标题样式（已修改：去除发光，字体变细） */
+  /* 主标题样式 */
   .home-title {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -63,8 +69,7 @@ footer: false
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-bottom: 10px;
-    font-weight: normal; /* 改为 normal */
-    /* text-shadow 已移除 */
+    font-weight: normal; 
   }
 
   /* 顶部按钮 */
