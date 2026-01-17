@@ -15,6 +15,15 @@ footer: false
 </div>
 
 <style>
+  /* --- 新增部分：强制禁止滚动条 --- */
+  html, body {
+    overflow: hidden !important; /* 核心代码：禁止出现滚动条 */
+    height: 100%;                /* 确保高度占满，防止塌陷 */
+    margin: 0;
+    padding: 0;
+  }
+  /* -------------------------------- */
+
   :root {
     --matrix-green: #00FF41;
     --text-main: #e0e0e0;
@@ -26,7 +35,8 @@ footer: false
     position: relative;
     z-index: 1;
     max-width: 850px;
-    margin: 60px auto;
+    /* 稍微调整了 margin-bottom，防止底部边距顶出滚动条，但主要靠上面的 overflow: hidden */
+    margin: 60px auto 0 auto; 
     padding: 20px;
     background: transparent; 
     color: var(--text-main);
