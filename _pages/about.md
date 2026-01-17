@@ -78,11 +78,11 @@ footer: false
   }
 
   /* H2 标题 */
-  h2 {
+  h3 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: normal; 
     color: var(--matrix-green);
-    border-bottom: 1px solid rgba(0, 255, 65, 0.3);
+    border-bottom: 2px solid rgba(0, 255, 65, 0.3);
     padding-bottom: 8px;
     margin-top: 40px;
     text-transform: uppercase;
@@ -137,7 +137,7 @@ footer: false
       <a href="mailto:ztq1047@gmail.com">email</a>
     </div>
 
-    <h2>Experience</h2>
+    <h3>Experience</h3>
     
     <div class="exp-item">
       <div class="exp-header">
