@@ -52,25 +52,24 @@ footer: false
     <br><br>
   
     <h2>Publications</h2>
-    <p>* denotes the co-first authors</p>
+    <!-- <p>* denotes the co-first authors</p> -->
   
-    <strong>Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation</strong> 
+    Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation
     <a href="https://2024.aclweb.org/" target="_blank" style="text-decoration: none;"><code>ACL2024</code></a> 
     <a href="https://aclanthology.org/2024.acl-long.351.pdf" target="_blank" style="text-decoration: none;"><code>paper</code></a> 
     <a href="https://github.com/tqzhong/CG4MCTG" target="_blank" style="text-decoration: none;"><code>code</code></a> 
     <a href="/files/poster_compmctg .pdf" target="_blank" style="text-decoration: none;"><code>poster</code></a> 
-    <br>
-    <em><ins>Tianqi Zhong</ins></em><sup>*</sup>, Zhaoyi Li<sup>*</sup>, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao
+    <!-- <br>
+    <em><ins>Tianqi Zhong</ins></em><sup>*</sup>, Zhaoyi Li<sup>*</sup>, Quan Wang, Linqi Song, Ying Wei, Defu Lian, Zhendong Mao -->
     <br><br>
   
-    <strong>Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation</strong> 
+    Air-Decoding: Attribute Distribution Reconstruction for Decoding-Time Controllable Text Generation 
     <a href="https://2023.emnlp.org/" target="_blank" style="text-decoration: none;"><code>EMNLP2023</code></a> 
     <a href="https://aclanthology.org/2023.emnlp-main.512.pdf" target="_blank" style="text-decoration: none;"><code>paper</code></a> 
     <a href="https://github.com/tqzhong/Air-Decoding" target="_blank" style="text-decoration: none;"><code>code</code></a> 
     <a href="/files/poster_air.pdf" target="_blank" style="text-decoration: none;"><code>poster</code></a>
-    <br>
-    <em><ins>Tianqi Zhong</ins></em>, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao
+    <!-- <br>
+    <em><ins>Tianqi Zhong</ins></em>, Quan Wang, Jingxuan Han, Yongdong Zhang, Zhendong Mao -->
   </details>
 
 </div>
-
