@@ -16,12 +16,12 @@ footer: false
 
 <style>
   /* 强制禁止滚动条 */
-  html, body {
+  /* html, body {
     overflow: hidden !important;
     height: 100%;
     margin: 0;
     padding: 0;
-  }
+  } */
 
   :root {
     --matrix-green: #00FF41;
@@ -34,32 +34,25 @@ footer: false
     position: relative;
     z-index: 1;
     max-width: 850px;
-    margin: 60px auto 0 auto;
+    margin: 40px auto 0 auto;
     padding: 20px;
     background: transparent; 
     color: var(--text-main);
     font-family: 'Courier New', Courier, monospace; 
   }
 
-  /* 顶部台词 */
-  summary {
-    list-style: none;
-    font-family: 'Courier New', Courier, monospace;
-    font-style: italic;
-    font-size: 14px;
+  /* 主标题样式（已修改：去除发光，字体变细） */
+  .home-title {
     text-align: center;
-    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
     color: var(--matrix-green);
-    transition: all 0.3s;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    font-weight: normal; /* 改为 normal */
+    /* text-shadow 已移除 */
   }
-  summary:hover {
-    text-shadow: 0 0 10px var(--matrix-green);
-  }
-  summary::-webkit-details-marker { display: none; }
 
   /* 顶部按钮 */
   .nav-links {
@@ -75,9 +68,13 @@ footer: false
     border-radius: 4px;
     margin: 0 5px;
     font-size: 13px;
+    transition: all 0.3s;
+  }
+  .nav-links a:hover {
+    background: rgba(0, 255, 65, 0.1);
   }
 
-  /* H2 标题 */
+  /* H3 标题 */
   h3 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: normal; 
@@ -102,11 +99,11 @@ footer: false
     align-items: baseline;
   }
   
-  /* --- 经历标题（修改处） --- */
+  /* 经历标题 */
   .exp-title {
     font-family: 'Courier New', Courier, monospace;
     font-size: 17px;
-    font-weight: normal;    /* 核心修改：改为 normal，之前是 600 */
+    font-weight: normal;
     color: var(--matrix-green);
   }
 
@@ -124,51 +121,67 @@ footer: false
     color: var(--text-dim);
     margin-top: 4px;
   }
+
+  /* 底部台词样式 */
+  .bottom-quote {
+    margin-top: 60px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 13px;
+    color: var(--text-dim);
+    opacity: 0.8;
+    padding-bottom: 20px;
+  }
 </style>
 
 <div class="main-content">
-  <details>
-    <summary>If the Matrix ever becomes a reality, I just hope they leave out Neo this time...</summary>
-    
-    <div class="nav-links">
-      <a href="https://www.rslog.cc" target="_blank">blog</a>
-      <a href="https://scholar.google.com/citations?hl=en&user=UNNLJX4AAAAJ" target="_blank">scholar</a>
-      <a href="https://github.com/tqzhong" target="_blank">github</a>
-      <a href="mailto:ztq1047@gmail.com">email</a>
-    </div>
-
-    <h3>Experience</h3>
-    
-    <div class="exp-item">
-      <div class="exp-header">
-        <span class="exp-title">Intelligent Conversation</span>
-        <span class="exp-date">2025.04 ~ Now</span>
-      </div>
-      <div class="exp-sub">ByteDance, Data</div>
-    </div>
-
-    <div class="exp-item">
-      <div class="exp-header">
-        <span class="exp-title">Internship in User Platform Department</span>
-        <span class="exp-date">2024.06 ~ 2024.08</span>
-      </div>
-      <div class="exp-sub">Tencent, IEG</div>
-    </div>
   
-    <div class="exp-item">
-      <div class="exp-header">
-        <span class="exp-title">M.Eng. in Information and Communication Engineering</span>
-        <span class="exp-date">2022.09 ~ 2025.06</span>
-      </div>
-      <div class="exp-sub">University of Science and Technology of China</div>
-    </div>
+  <div class="home-title">Zhong Tianqi's Homepage</div>
+    
+  <div class="nav-links">
+    <a href="https://www.rslog.cc" target="_blank">blog</a>
+    <a href="https://scholar.google.com/citations?hl=en&user=UNNLJX4AAAAJ" target="_blank">scholar</a>
+    <a href="https://github.com/tqzhong" target="_blank">github</a>
+    <a href="mailto:ztq1047@gmail.com">email</a>
+  </div>
+
+  <h3>Experience</h3>
   
-    <div class="exp-item">
-      <div class="exp-header">
-        <span class="exp-title">B.Eng. in Electronic Information Engineering</span>
-        <span class="exp-date">2018.09 ~ 2022.06</span>
-      </div>
-      <div class="exp-sub">University of Science and Technology of China</div>
+  <div class="exp-item">
+    <div class="exp-header">
+      <span class="exp-title">Intelligent Conversation</span>
+      <span class="exp-date">2025.04 ~ Now</span>
     </div>
-  </details>
+    <div class="exp-sub">ByteDance, Data</div>
+  </div>
+
+  <div class="exp-item">
+    <div class="exp-header">
+      <span class="exp-title">Internship in User Platform Department</span>
+      <span class="exp-date">2024.06 ~ 2024.08</span>
+    </div>
+    <div class="exp-sub">Tencent, IEG</div>
+  </div>
+
+  <div class="exp-item">
+    <div class="exp-header">
+      <span class="exp-title">M.Eng. in Information and Communication Engineering</span>
+      <span class="exp-date">2022.09 ~ 2025.06</span>
+    </div>
+    <div class="exp-sub">University of Science and Technology of China</div>
+  </div>
+
+  <div class="exp-item">
+    <div class="exp-header">
+      <span class="exp-title">B.Eng. in Electronic Information Engineering</span>
+      <span class="exp-date">2018.09 ~ 2022.06</span>
+    </div>
+    <div class="exp-sub">University of Science and Technology of China</div>
+  </div>
+
+  <div class="bottom-quote">
+    If the Matrix ever becomes a reality, I just hope they leave out Neo this time...
+  </div>
+
 </div>
