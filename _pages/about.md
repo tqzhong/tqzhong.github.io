@@ -15,13 +15,26 @@ footer: false
 </div>
 
 <style>
-  /* 强制禁止滚动条 */
-  /* html, body {
-    overflow: hidden !important;
+   /* 1. 基础设置：去掉默认边距 */
+  html, body {
     height: 100%;
     margin: 0;
-    padding: 0;
-  } */
+    padding: 0 !important; /* 强制去掉主题可能的 padding */
+  }
+
+  /* 2. 默认（手机端）：允许垂直滚动 */
+  body {
+    overflow-y: auto; 
+    overflow-x: hidden; /* 禁止横向滚动 */
+  }
+
+  /* 3. 电脑端（宽度大于 768px）：如果页面高度够用，强制隐藏滚动条 */
+  @media (min-width: 768px) {
+    html, body {
+      overflow: hidden !important;
+    }
+  }
+
 
   :root {
     --matrix-green: #00FF41;
