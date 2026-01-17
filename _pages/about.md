@@ -75,15 +75,12 @@ footer: false
     border-radius: 4px;
     margin: 0 5px;
     font-size: 13px;
-    /* transition: all 0.3s;  <-- 如果不需要 hover 效果，其实过渡动画也可以去掉，留着也没影响 */
   }
-  
-  /* --- 已删除 .nav-links a:hover 样式块，彻底去掉悬停高亮 --- */
 
   /* H2 标题 */
   h2 {
     font-family: 'Courier New', Courier, monospace;
-    font-weight: normal;  /* 不加粗 */
+    font-weight: normal; 
     color: var(--matrix-green);
     border-bottom: 1px solid rgba(0, 255, 65, 0.3);
     padding-bottom: 8px;
@@ -105,12 +102,12 @@ footer: false
     align-items: baseline;
   }
   
-  /* 经历标题 */
+  /* --- 经历标题（修改处） --- */
   .exp-title {
     font-family: 'Courier New', Courier, monospace;
     font-size: 17px;
-    font-weight: 600; 
-    color: #fff;
+    font-weight: normal;    /* 核心修改：改为 normal，之前是 600 */
+    color: var(--matrix-green);
   }
 
   /* 时间 */
@@ -147,7 +144,7 @@ footer: false
         <span class="exp-title">Intelligent Conversation</span>
         <span class="exp-date">2025.04 ~ Now</span>
       </div>
-      <div class="exp-sub">ByteDance, Data-Douyin</div>
+      <div class="exp-sub">ByteDance, Data</div>
     </div>
 
     <div class="exp-item">
