@@ -14,10 +14,10 @@ footer: false
   修改点：
   1. z-index: 0 (原为-1，防止被手机浏览器画布覆盖)
   2. pointer-events: none (防止背景层拦截手机触摸操作)
-  3. numColumns=50 (原为100，手机屏幕窄，减少列数可大幅降低GPU负担，防止黑屏)
+  3. 本地化 Matrix 资源，避免外链加载延迟
 -->
 <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; overflow: hidden; background: black;">
-  <iframe src="https://rezmason.github.io/matrix/?numColumns=100&fallSpeed=0.25&slant=0&glyphRotation=90&bloomStrength=0.1&cycleSpeed=0.01&skipIntro=true&bloomSize=0&version=resurrections" style="width: 100%; height: 100%; border: none; opacity: 0.6;"></iframe>
+  <iframe src="{{ '/assets/matrix/index.html' | relative_url }}?numColumns=100&fallSpeed=0.25&slant=0&glyphRotation=90&bloomStrength=0.1&cycleSpeed=0.01&skipIntro=true&bloomSize=0&version=resurrections" style="width: 100%; height: 100%; border: none; opacity: 0.6;"></iframe>
 </div>
 
 <style>
